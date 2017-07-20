@@ -12,24 +12,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Urge_Smith/Dev/AndroidPlayground/AdvancedAndroid_Shushme/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="aee64634871d88a419d59eb743c1258a60f19700">
-        <dex dex="/Users/Urge_Smith/Dev/AndroidPlayground/AdvancedAndroid_Shushme/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_d6e093d92cb9f611176ec8743ec6b7feb5439e24.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Urge_Smith/Dev/AndroidPlayground/AdvancedAndroid_Shushme/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
-        <dex dex="/Users/Urge_Smith/Dev/AndroidPlayground/AdvancedAndroid_Shushme/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_3552322bd92377683e9c50e9c25816d39e6abdf9.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/Urge_Smith/Dev/AndroidPlayground/AdvancedAndroid_Shushme/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -48,12 +30,84 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/Urge_Smith/Dev/AndroidPlayground/AdvancedAndroid_Shushme/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/Users/Urge_Smith/Dev/AndroidPlayground/AdvancedAndroid_Shushme/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.8.0_a579b3785bb773254f22247fc6d63be2f2d5ff03.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/Urge_Smith/Dev/AndroidPlayground/AdvancedAndroid_Shushme/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
         <dex dex="/Users/Urge_Smith/Dev/AndroidPlayground/AdvancedAndroid_Shushme/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_f2543dd4f916c833da79ed89355599a7ade59992.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Urge_Smith/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/Urge_Smith/Dev/AndroidPlayground/AdvancedAndroid_Shushme/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_fced4dddc6c57d59b422c06f7c8f96eda60d143b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Urge_Smith/Dev/AndroidPlayground/AdvancedAndroid_Shushme/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/Urge_Smith/Dev/AndroidPlayground/AdvancedAndroid_Shushme/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_56251e5c76dc3c166315004902256c4cb60a679b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Urge_Smith/Dev/AndroidPlayground/AdvancedAndroid_Shushme/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/Urge_Smith/Dev/AndroidPlayground/AdvancedAndroid_Shushme/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_d6e093d92cb9f611176ec8743ec6b7feb5439e24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Urge_Smith/Dev/AndroidPlayground/AdvancedAndroid_Shushme/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/Urge_Smith/Dev/AndroidPlayground/AdvancedAndroid_Shushme/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_3552322bd92377683e9c50e9c25816d39e6abdf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Urge_Smith/Dev/AndroidPlayground/AdvancedAndroid_Shushme/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="/Users/Urge_Smith/Dev/AndroidPlayground/AdvancedAndroid_Shushme/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-places-9.8.0_293c3cb8709d9c7a7b9c624fe07c7ab173a5a7a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Urge_Smith/Dev/AndroidPlayground/AdvancedAndroid_Shushme/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="/Users/Urge_Smith/Dev/AndroidPlayground/AdvancedAndroid_Shushme/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-9.8.0_08fd054679a567eb398701b9446a8dc305bb3591.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Urge_Smith/Dev/AndroidPlayground/AdvancedAndroid_Shushme/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/Urge_Smith/Dev/AndroidPlayground/AdvancedAndroid_Shushme/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.8.0_52571a4ea1a9b31135214a31129b54f1bcca3615.jar" />
     </item>
     <item
         is-multidex="false"
@@ -75,21 +129,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Urge_Smith/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
-        <dex dex="/Users/Urge_Smith/Dev/AndroidPlayground/AdvancedAndroid_Shushme/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_fced4dddc6c57d59b422c06f7c8f96eda60d143b.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/Urge_Smith/Dev/AndroidPlayground/AdvancedAndroid_Shushme/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
         <dex dex="/Users/Urge_Smith/Dev/AndroidPlayground/AdvancedAndroid_Shushme/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_6006e7c546097e781d33ff3d0fe18e8686d1023d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Urge_Smith/Dev/AndroidPlayground/AdvancedAndroid_Shushme/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/Urge_Smith/Dev/AndroidPlayground/AdvancedAndroid_Shushme/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.8.0_c6119492c5f12b482c6bd2b6c207b63b6d005adb.jar" />
     </item>
     <item
         is-multidex="false"
